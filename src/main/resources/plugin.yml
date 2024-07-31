@@ -1,0 +1,9 @@
+name: RandomDisaster
+version: '${project.version}'
+main: me.unknownl.randomdisaster.RandomDisaster
+api-version: '1.20'
+commands:
+  disaster:
+    discription: disaster?
+    usage: /disaster [start] or [stop]
+    permission: RandomDisaster.command
